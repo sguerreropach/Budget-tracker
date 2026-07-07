@@ -1,0 +1,2542 @@
+{
+ "settings": {
+  "savingsGoal": 5000.0,
+  "monthlySavingsGoal": 600.0
+ },
+ "budgets": [
+  {
+   "category": "Rent",
+   "budget": 669.0
+  },
+  {
+   "category": "Credit Card",
+   "budget": 1030.0
+  },
+  {
+   "category": "Services",
+   "budget": 150.0
+  },
+  {
+   "category": "Car",
+   "budget": 120.02
+  },
+  {
+   "category": "Entertainment",
+   "budget": 0.0
+  },
+  {
+   "category": "Dining Out",
+   "budget": 200.0
+  },
+  {
+   "category": "Subscriptions",
+   "budget": 50.0
+  },
+  {
+   "category": "Groceries",
+   "budget": 85.0
+  },
+  {
+   "category": "Miscellaneous",
+   "budget": 150.0
+  },
+  {
+   "category": "Gifts",
+   "budget": null
+  },
+  {
+   "category": "Personal care",
+   "budget": null
+  },
+  {
+   "category": "Household",
+   "budget": null
+  }
+ ],
+ "transactions": [
+  {
+   "id": "tx2",
+   "date": "2026-02-01",
+   "category": "Rent",
+   "type": "Expense",
+   "amount": 669.0,
+   "notes": "Rent"
+  },
+  {
+   "id": "tx3",
+   "date": "2026-02-01",
+   "category": "Credit Card",
+   "type": "Expense",
+   "amount": 100.0,
+   "notes": "Discover paymne"
+  },
+  {
+   "id": "tx4",
+   "date": "2026-02-21",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Alabama power (trin pays)"
+  },
+  {
+   "id": "tx5",
+   "date": "2026-02-21",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 43.64,
+   "notes": "MAWSS"
+  },
+  {
+   "id": "tx6",
+   "date": "2026-02-21",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 36.91,
+   "notes": "Spire"
+  },
+  {
+   "id": "tx7",
+   "date": "2026-02-21",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 60.37,
+   "notes": "ATT"
+  },
+  {
+   "id": "tx8",
+   "date": "2026-02-06",
+   "category": "Subscriptions",
+   "type": "Expense",
+   "amount": 6.47,
+   "notes": "spotify"
+  },
+  {
+   "id": "tx9",
+   "date": "2026-02-06",
+   "category": "Subscriptions",
+   "type": "Expense",
+   "amount": 2.99,
+   "notes": "Apple storage"
+  },
+  {
+   "id": "tx10",
+   "date": "2026-02-14",
+   "category": "Car",
+   "type": "Expense",
+   "amount": 72.34,
+   "notes": "Geico"
+  },
+  {
+   "id": "tx11",
+   "date": "2026-02-14",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Sallie mae"
+  },
+  {
+   "id": "tx12",
+   "date": "2026-02-01",
+   "category": "Credit Card",
+   "type": "Expense",
+   "amount": 964.92,
+   "notes": "Car fix 2030 2nd installment"
+  },
+  {
+   "id": "tx13",
+   "date": "2026-02-01",
+   "category": "Groceries",
+   "type": "Expense",
+   "amount": 233.96,
+   "notes": "Groceries"
+  },
+  {
+   "id": "tx14",
+   "date": "2026-02-01",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Muchacha de servicio"
+  },
+  {
+   "id": "tx15",
+   "date": "2026-02-01",
+   "category": "Car",
+   "type": "Expense",
+   "amount": 47.68,
+   "notes": "Gas"
+  },
+  {
+   "id": "tx16",
+   "date": "2026-02-06",
+   "category": "Dining Out",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Chickfila 16.54"
+  },
+  {
+   "id": "tx17",
+   "date": "2026-02-06",
+   "category": "Entertainment",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Ross shoes and pants 87.98"
+  },
+  {
+   "id": "tx18",
+   "date": "2026-02-06",
+   "category": "Dining Out",
+   "type": "Expense",
+   "amount": 5.48,
+   "notes": "Mcdonalds"
+  },
+  {
+   "id": "tx19",
+   "date": "2026-02-07",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 28.77,
+   "notes": "Dryer element #2"
+  },
+  {
+   "id": "tx20",
+   "date": "2026-02-07",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 12.95,
+   "notes": "Dryer element #1 (not returned)"
+  },
+  {
+   "id": "tx21",
+   "date": "2026-02-09",
+   "category": "Dining Out",
+   "type": "Expense",
+   "amount": 8.35,
+   "notes": "foo sacklys"
+  },
+  {
+   "id": "tx22",
+   "date": null,
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "pacifico beers walmart"
+  },
+  {
+   "id": "tx23",
+   "date": "2026-02-12",
+   "category": "Dining Out",
+   "type": "Expense",
+   "amount": 7.58,
+   "notes": "CFA breakfast"
+  },
+  {
+   "id": "tx24",
+   "date": "2026-02-17",
+   "category": "Other Income",
+   "type": "Income",
+   "amount": 490.0,
+   "notes": "Generous USA check"
+  },
+  {
+   "id": "tx25",
+   "date": "2026-02-18",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 14.69,
+   "notes": "Publix sudafed"
+  },
+  {
+   "id": "tx26",
+   "date": "2026-02-23",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 4.39,
+   "notes": "publix cough drop"
+  },
+  {
+   "id": "tx27",
+   "date": "2026-02-23",
+   "category": "Dining Out",
+   "type": "Expense",
+   "amount": 10.99,
+   "notes": "subway"
+  },
+  {
+   "id": "tx28",
+   "date": "2026-02-18",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 15.33,
+   "notes": "walmart"
+  },
+  {
+   "id": "tx29",
+   "date": "2026-02-20",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 15.24,
+   "notes": "walmart"
+  },
+  {
+   "id": "tx30",
+   "date": "2026-02-18",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 8.67,
+   "notes": "walmart"
+  },
+  {
+   "id": "tx31",
+   "date": "2026-02-27",
+   "category": "Entertainment",
+   "type": "Expense",
+   "amount": 159.0,
+   "notes": "Topgolf + $60 on drinks (estimate)"
+  },
+  {
+   "id": "tx32",
+   "date": "2026-02-28",
+   "category": "Car",
+   "type": "Expense",
+   "amount": 47.68,
+   "notes": "Gas for anniston"
+  },
+  {
+   "id": "tx33",
+   "date": "2026-02-23",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 2.75,
+   "notes": "dolar tree meds"
+  },
+  {
+   "id": "tx34",
+   "date": "2026-02-25",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 25.0,
+   "notes": "Haircut"
+  },
+  {
+   "id": "tx35",
+   "date": "2026-02-01",
+   "category": "Other Income",
+   "type": "Income",
+   "amount": 2340.0,
+   "notes": ""
+  },
+  {
+   "id": "tx36",
+   "date": "2026-03-01",
+   "category": "Rent",
+   "type": "Expense",
+   "amount": 669.0,
+   "notes": "Rent"
+  },
+  {
+   "id": "tx37",
+   "date": "2026-03-01",
+   "category": "Credit Card",
+   "type": "Expense",
+   "amount": 460.95,
+   "notes": "Discover payment 1st installment"
+  },
+  {
+   "id": "tx38",
+   "date": "2026-03-01",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Alabama power (trin pays) (156)"
+  },
+  {
+   "id": "tx39",
+   "date": "2026-03-27",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 46.59,
+   "notes": "MAWSS"
+  },
+  {
+   "id": "tx40",
+   "date": "2026-03-30",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 39.16,
+   "notes": "Spire"
+  },
+  {
+   "id": "tx41",
+   "date": "2026-03-23",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 60.37,
+   "notes": "ATT"
+  },
+  {
+   "id": "tx42",
+   "date": "2026-03-01",
+   "category": "Subscriptions",
+   "type": "Expense",
+   "amount": 7.55,
+   "notes": "spotify"
+  },
+  {
+   "id": "tx43",
+   "date": "2026-03-01",
+   "category": "Subscriptions",
+   "type": "Expense",
+   "amount": 2.99,
+   "notes": "Apple storage"
+  },
+  {
+   "id": "tx44",
+   "date": "2026-03-01",
+   "category": "Car",
+   "type": "Expense",
+   "amount": 72.34,
+   "notes": "Geico"
+  },
+  {
+   "id": "tx45",
+   "date": "2026-03-01",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 102.5,
+   "notes": "Sallie mae"
+  },
+  {
+   "id": "tx46",
+   "date": "2026-03-01",
+   "category": "Credit Card",
+   "type": "Expense",
+   "amount": 670.29,
+   "notes": "Chase 136.43+533.86"
+  },
+  {
+   "id": "tx47",
+   "date": "2026-03-01",
+   "category": "Groceries",
+   "type": "Expense",
+   "amount": 69.33,
+   "notes": "Groceries"
+  },
+  {
+   "id": "tx48",
+   "date": "2026-03-01",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Madre mesada 100"
+  },
+  {
+   "id": "tx49",
+   "date": "2026-03-01",
+   "category": "Car",
+   "type": "Expense",
+   "amount": 50.0,
+   "notes": "Gas back to mobile"
+  },
+  {
+   "id": "tx50",
+   "date": "2026-03-01",
+   "category": "Other Income",
+   "type": "Income",
+   "amount": 260.0,
+   "notes": "Alba + samuel regalo + mario"
+  },
+  {
+   "id": "tx51",
+   "date": "2026-03-01",
+   "category": "Car",
+   "type": "Expense",
+   "amount": 45.01,
+   "notes": "Gas month"
+  },
+  {
+   "id": "tx52",
+   "date": "2026-03-02",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 3.13,
+   "notes": "Gas station snack"
+  },
+  {
+   "id": "tx53",
+   "date": "2026-03-04",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 6.0,
+   "notes": "Starbucks pesto egg mozarella"
+  },
+  {
+   "id": "tx54",
+   "date": "2026-03-04",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 8.36,
+   "notes": "Publix sushi"
+  },
+  {
+   "id": "tx55",
+   "date": "2026-03-05",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 6.0,
+   "notes": "Starbucks lemonade drink"
+  },
+  {
+   "id": "tx56",
+   "date": "2026-03-09",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 18.14,
+   "notes": "gin for trinity"
+  },
+  {
+   "id": "tx57",
+   "date": "2026-03-10",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 3.25,
+   "notes": "TUMS"
+  },
+  {
+   "id": "tx58",
+   "date": "2026-03-15",
+   "category": "Car",
+   "type": "Expense",
+   "amount": 129.27,
+   "notes": "Oil change at jiffy lube (26% off)"
+  },
+  {
+   "id": "tx59",
+   "date": "2026-03-11",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 2.84,
+   "notes": "ramen at campus"
+  },
+  {
+   "id": "tx60",
+   "date": "2026-03-01",
+   "category": "Other Income",
+   "type": "Income",
+   "amount": 2702.64,
+   "notes": "Salary"
+  },
+  {
+   "id": "tx61",
+   "date": "2026-03-12",
+   "category": "Dining Out",
+   "type": "Expense",
+   "amount": 10.15,
+   "notes": "Ice cream old dutch"
+  },
+  {
+   "id": "tx62",
+   "date": "2026-03-14",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 11.0,
+   "notes": "Goodwill shirts 2"
+  },
+  {
+   "id": "tx63",
+   "date": "2026-03-14",
+   "category": "Dining Out",
+   "type": "Expense",
+   "amount": 25.58,
+   "notes": "Vietnamese"
+  },
+  {
+   "id": "tx64",
+   "date": "2026-03-15",
+   "category": "Entertainment",
+   "type": "Expense",
+   "amount": 200.0,
+   "notes": "Gulf shores airbnb"
+  },
+  {
+   "id": "tx65",
+   "date": "2026-03-15",
+   "category": "Entertainment",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Gulf trip expenses budget 85"
+  },
+  {
+   "id": "tx66",
+   "date": "2026-03-16",
+   "category": "Dining Out",
+   "type": "Expense",
+   "amount": 7.91,
+   "notes": "Bagel"
+  },
+  {
+   "id": "tx67",
+   "date": "2026-03-20",
+   "category": "Entertainment",
+   "type": "Expense",
+   "amount": 45.0,
+   "notes": "Soccer balls"
+  },
+  {
+   "id": "tx68",
+   "date": "2026-03-20",
+   "category": "Dining Out",
+   "type": "Expense",
+   "amount": 5.78,
+   "notes": "Chai latte"
+  },
+  {
+   "id": "tx69",
+   "date": "2026-03-21",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 4.84,
+   "notes": "gatorade"
+  },
+  {
+   "id": "tx70",
+   "date": "2026-03-21",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 9.89,
+   "notes": "coronas"
+  },
+  {
+   "id": "tx71",
+   "date": "2026-03-21",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 16.26,
+   "notes": "Shave and blades"
+  },
+  {
+   "id": "tx72",
+   "date": "2026-03-21",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 7.67,
+   "notes": "Key for trin"
+  },
+  {
+   "id": "tx73",
+   "date": "2026-03-25",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 25.0,
+   "notes": "Haircut"
+  },
+  {
+   "id": "tx74",
+   "date": "2026-03-25",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 26.98,
+   "notes": "Ross"
+  },
+  {
+   "id": "tx75",
+   "date": "2026-03-26",
+   "category": "Car",
+   "type": "Expense",
+   "amount": 25.0,
+   "notes": "Gas"
+  },
+  {
+   "id": "tx76",
+   "date": "2026-03-26",
+   "category": "Car",
+   "type": "Expense",
+   "amount": 50.57,
+   "notes": "Gas month"
+  },
+  {
+   "id": "tx77",
+   "date": "2026-04-01",
+   "category": "Rent",
+   "type": "Expense",
+   "amount": 670.0,
+   "notes": "Rent"
+  },
+  {
+   "id": "tx78",
+   "date": "2026-04-02",
+   "category": "Credit Card",
+   "type": "Expense",
+   "amount": 477.86,
+   "notes": "Discover paymne 2nd installment"
+  },
+  {
+   "id": "tx79",
+   "date": "2026-04-01",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Alabama power (trin pays)(156)"
+  },
+  {
+   "id": "tx80",
+   "date": "2026-04-01",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 46.59,
+   "notes": "MAWSS"
+  },
+  {
+   "id": "tx81",
+   "date": "2026-04-01",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 39.16,
+   "notes": "Spire"
+  },
+  {
+   "id": "tx82",
+   "date": "2026-04-01",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 60.37,
+   "notes": "ATT"
+  },
+  {
+   "id": "tx83",
+   "date": "2026-04-01",
+   "category": "Subscriptions",
+   "type": "Expense",
+   "amount": 7.55,
+   "notes": "spotify"
+  },
+  {
+   "id": "tx84",
+   "date": "2026-04-01",
+   "category": "Subscriptions",
+   "type": "Expense",
+   "amount": 2.99,
+   "notes": "Apple storage"
+  },
+  {
+   "id": "tx85",
+   "date": "2026-04-01",
+   "category": "Car",
+   "type": "Expense",
+   "amount": 72.34,
+   "notes": "Geico"
+  },
+  {
+   "id": "tx86",
+   "date": "2026-04-01",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Sallie mae"
+  },
+  {
+   "id": "tx87",
+   "date": "2026-04-01",
+   "category": "Credit Card",
+   "type": "Expense",
+   "amount": 550.0,
+   "notes": "Chase"
+  },
+  {
+   "id": "tx88",
+   "date": "2026-04-01",
+   "category": "Groceries",
+   "type": "Expense",
+   "amount": 52.45,
+   "notes": "Groceries"
+  },
+  {
+   "id": "tx89",
+   "date": "2026-04-01",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Madre mesada 100"
+  },
+  {
+   "id": "tx90",
+   "date": "2026-04-01",
+   "category": "Car",
+   "type": "Expense",
+   "amount": 57.69,
+   "notes": "Gas from anniston. Only 4 1/2 gal left"
+  },
+  {
+   "id": "tx91",
+   "date": "2026-04-01",
+   "category": "Other Income",
+   "type": "Income",
+   "amount": 2346.94,
+   "notes": "Paycheck"
+  },
+  {
+   "id": "tx92",
+   "date": "2026-04-01",
+   "category": "Other Income",
+   "type": "Income",
+   "amount": 34.3,
+   "notes": "Money carried over from march"
+  },
+  {
+   "id": "tx93",
+   "date": "2026-04-01",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 19.0,
+   "notes": "Owe to kobe"
+  },
+  {
+   "id": "tx94",
+   "date": "2026-04-01",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 10.0,
+   "notes": "parking"
+  },
+  {
+   "id": "tx95",
+   "date": "2026-04-01",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 7.1,
+   "notes": "owe javion"
+  },
+  {
+   "id": "tx96",
+   "date": "2026-04-01",
+   "category": "Personal care",
+   "type": "Expense",
+   "amount": 11.31,
+   "notes": "toothpaste"
+  },
+  {
+   "id": "tx97",
+   "date": "2026-04-01",
+   "category": "Subscriptions",
+   "type": "Expense",
+   "amount": 20.0,
+   "notes": "claude"
+  },
+  {
+   "id": "tx98",
+   "date": "2026-04-01",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 84.36,
+   "notes": "Avianca BOG to BAQ"
+  },
+  {
+   "id": "tx99",
+   "date": "2026-04-06",
+   "category": "Car",
+   "type": "Expense",
+   "amount": 36.12,
+   "notes": "Al tag renewal"
+  },
+  {
+   "id": "tx100",
+   "date": "2026-04-06",
+   "category": "Car",
+   "type": "Expense",
+   "amount": 28.62,
+   "notes": "Gas to anniston"
+  },
+  {
+   "id": "tx101",
+   "date": "2026-04-06",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 42.0,
+   "notes": "Roberto favor gift jefa"
+  },
+  {
+   "id": "tx102",
+   "date": "2026-04-10",
+   "category": "Car",
+   "type": "Expense",
+   "amount": 45.16,
+   "notes": "gas for what is left of month"
+  },
+  {
+   "id": "tx103",
+   "date": "2026-04-07",
+   "category": "Other Income",
+   "type": "Income",
+   "amount": 120.0,
+   "notes": "mario gift"
+  },
+  {
+   "id": "tx104",
+   "date": "2026-04-09",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 1.65,
+   "notes": "dorito"
+  },
+  {
+   "id": "tx105",
+   "date": "2026-04-10",
+   "category": "Personal care",
+   "type": "Expense",
+   "amount": 12.88,
+   "notes": "Fluticasone nasal spray"
+  },
+  {
+   "id": "tx106",
+   "date": "2026-04-11",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 10.99,
+   "notes": "Sol beers"
+  },
+  {
+   "id": "tx107",
+   "date": "2026-04-12",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 4.28,
+   "notes": "command strips target"
+  },
+  {
+   "id": "tx108",
+   "date": "2026-04-12",
+   "category": "Household",
+   "type": "Expense",
+   "amount": 19.71,
+   "notes": "curtain + rod"
+  },
+  {
+   "id": "tx109",
+   "date": "2026-04-12",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 6.0,
+   "notes": "pink drink SB"
+  },
+  {
+   "id": "tx110",
+   "date": "2026-04-12",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 8.53,
+   "notes": "Sandpaper + spray"
+  },
+  {
+   "id": "tx111",
+   "date": "2026-04-14",
+   "category": "Household",
+   "type": "Expense",
+   "amount": 26.37,
+   "notes": "sander + sandpaper"
+  },
+  {
+   "id": "tx112",
+   "date": "2026-04-17",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 23.08,
+   "notes": "Sol beers"
+  },
+  {
+   "id": "tx113",
+   "date": "2026-04-17",
+   "category": "Dining Out",
+   "type": "Expense",
+   "amount": 10.95,
+   "notes": "cfa"
+  },
+  {
+   "id": "tx114",
+   "date": "2026-04-17",
+   "category": "Gifts",
+   "type": "Expense",
+   "amount": 23.0,
+   "notes": "mom and dad treat"
+  },
+  {
+   "id": "tx115",
+   "date": "2026-05-01",
+   "category": "Rent",
+   "type": "Expense",
+   "amount": 670.0,
+   "notes": "Rent"
+  },
+  {
+   "id": "tx116",
+   "date": "2026-05-02",
+   "category": "Credit Card",
+   "type": "Expense",
+   "amount": 351.37,
+   "notes": "Discover payment"
+  },
+  {
+   "id": "tx117",
+   "date": "2026-05-11",
+   "category": "Credit Card",
+   "type": "Expense",
+   "amount": 550.0,
+   "notes": "Chase"
+  },
+  {
+   "id": "tx118",
+   "date": "2026-05-14",
+   "category": "Credit Card",
+   "type": "Expense",
+   "amount": 186.68,
+   "notes": "Autograph"
+  },
+  {
+   "id": "tx119",
+   "date": "2026-05-03",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Alabama power (trin pays)"
+  },
+  {
+   "id": "tx120",
+   "date": "2026-05-04",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 46.59,
+   "notes": "MAWSS"
+  },
+  {
+   "id": "tx121",
+   "date": "2026-05-05",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 34.66,
+   "notes": "Spire"
+  },
+  {
+   "id": "tx122",
+   "date": "2026-05-06",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 60.37,
+   "notes": "ATT"
+  },
+  {
+   "id": "tx123",
+   "date": "2026-05-14",
+   "category": "Subscriptions",
+   "type": "Expense",
+   "amount": 7.55,
+   "notes": "spotify"
+  },
+  {
+   "id": "tx124",
+   "date": "2026-05-08",
+   "category": "Subscriptions",
+   "type": "Expense",
+   "amount": 2.99,
+   "notes": "Apple storage"
+  },
+  {
+   "id": "tx125",
+   "date": "2026-05-15",
+   "category": "Car",
+   "type": "Expense",
+   "amount": 72.34,
+   "notes": "Geico"
+  },
+  {
+   "id": "tx126",
+   "date": "2026-05-14",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 100.0,
+   "notes": "Sallie mae"
+  },
+  {
+   "id": "tx127",
+   "date": "2026-05-12",
+   "category": "Groceries",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Groceries"
+  },
+  {
+   "id": "tx128",
+   "date": "2026-05-13",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Madre mesada"
+  },
+  {
+   "id": "tx129",
+   "date": "2026-05-04",
+   "category": "Car",
+   "type": "Expense",
+   "amount": 57.0,
+   "notes": "Gas to anniston may apr 30th (discover)"
+  },
+  {
+   "id": "tx130",
+   "date": "2026-05-01",
+   "category": "Other Income",
+   "type": "Income",
+   "amount": 2346.94,
+   "notes": "Paycheck"
+  },
+  {
+   "id": "tx131",
+   "date": "2026-05-01",
+   "category": "Subscriptions",
+   "type": "Expense",
+   "amount": 20.0,
+   "notes": "claude"
+  },
+  {
+   "id": "tx132",
+   "date": "2026-05-01",
+   "category": "Other Income",
+   "type": "Income",
+   "amount": 1152.7,
+   "notes": "tax return"
+  },
+  {
+   "id": "tx133",
+   "date": "2026-05-01",
+   "category": "Gifts",
+   "type": "Expense",
+   "amount": 315.0,
+   "notes": "Gifts for family (Discover)"
+  },
+  {
+   "id": "tx134",
+   "date": "2026-05-03",
+   "category": "Dining Out",
+   "type": "Expense",
+   "amount": 8.35,
+   "notes": "foo sacklys"
+  },
+  {
+   "id": "tx135",
+   "date": "2026-05-04",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 4.4,
+   "notes": "walmart travel bag"
+  },
+  {
+   "id": "tx136",
+   "date": "2026-05-04",
+   "category": "Entertainment",
+   "type": "Expense",
+   "amount": 12.0,
+   "notes": "zelle katie crawfish"
+  },
+  {
+   "id": "tx137",
+   "date": "2026-05-07",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 36.99,
+   "notes": "WF withdrawal davivienda"
+  },
+  {
+   "id": "tx138",
+   "date": "2026-05-07",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 3.23,
+   "notes": "water bottle ATL airport"
+  },
+  {
+   "id": "tx139",
+   "date": "2026-05-07",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 21.5,
+   "notes": "Taxi fare via riia"
+  },
+  {
+   "id": "tx140",
+   "date": "2026-05-13",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 2.8,
+   "notes": "diclofenac injection"
+  },
+  {
+   "id": "tx141",
+   "date": "2026-05-13",
+   "category": "Gifts",
+   "type": "Expense",
+   "amount": 41.5,
+   "notes": "RIA transfer to self"
+  },
+  {
+   "id": "tx142",
+   "date": "2026-05-15",
+   "category": "Dining Out",
+   "type": "Expense",
+   "amount": 78.28,
+   "notes": "Ria to pay ribs"
+  },
+  {
+   "id": "tx143",
+   "date": "2026-05-19",
+   "category": "Dining Out",
+   "type": "Expense",
+   "amount": 16.5,
+   "notes": "RIA nequi"
+  },
+  {
+   "id": "tx144",
+   "date": "2026-05-25",
+   "category": "Credit Card",
+   "type": "Expense",
+   "amount": 500.0,
+   "notes": "Discover"
+  },
+  {
+   "id": "tx145",
+   "date": "2026-05-23",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 56.65,
+   "notes": "Favor gilma"
+  },
+  {
+   "id": "tx146",
+   "date": "2026-05-28",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 6.5,
+   "notes": "nequi giro myself"
+  },
+  {
+   "id": "tx399",
+   "date": "2026-06-01",
+   "category": "Rent",
+   "type": "Expense",
+   "amount": 670.0,
+   "notes": "Rent"
+  },
+  {
+   "id": "tx400",
+   "date": "2026-06-02",
+   "category": "Credit Card",
+   "type": "Expense",
+   "amount": 375.12,
+   "notes": "Discover payment"
+  },
+  {
+   "id": "tx401",
+   "date": "2026-06-01",
+   "category": "Credit Card",
+   "type": "Expense",
+   "amount": 550.0,
+   "notes": "Chase"
+  },
+  {
+   "id": "tx402",
+   "date": "2026-06-03",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 130.38,
+   "notes": "Autograph"
+  },
+  {
+   "id": "tx403",
+   "date": "2026-06-04",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Alabama power (trin pays)"
+  },
+  {
+   "id": "tx404",
+   "date": "2026-06-05",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 46.59,
+   "notes": "MAWSS"
+  },
+  {
+   "id": "tx405",
+   "date": "2026-06-06",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 21.1,
+   "notes": "Spire"
+  },
+  {
+   "id": "tx406",
+   "date": "2026-06-07",
+   "category": "Subscriptions",
+   "type": "Expense",
+   "amount": 60.37,
+   "notes": "ATT"
+  },
+  {
+   "id": "tx407",
+   "date": "2026-06-08",
+   "category": "Subscriptions",
+   "type": "Expense",
+   "amount": 7.55,
+   "notes": "spotify"
+  },
+  {
+   "id": "tx408",
+   "date": "2026-06-09",
+   "category": "Car",
+   "type": "Expense",
+   "amount": 2.99,
+   "notes": "Apple storage"
+  },
+  {
+   "id": "tx409",
+   "date": "2026-06-14",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 72.34,
+   "notes": "Geico"
+  },
+  {
+   "id": "tx410",
+   "date": "2026-06-15",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 100.0,
+   "notes": "Sallie Mae"
+  },
+  {
+   "id": "tx411",
+   "date": "2026-06-12",
+   "category": "Groceries",
+   "type": "Expense",
+   "amount": 52.45,
+   "notes": "Groceries"
+  },
+  {
+   "id": "tx412",
+   "date": "2026-06-13",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 103.0,
+   "notes": "Madre mesada"
+  },
+  {
+   "id": "tx413",
+   "date": "2026-06-14",
+   "category": "Car",
+   "type": "Expense",
+   "amount": 59.01,
+   "notes": "Gas"
+  },
+  {
+   "id": "tx414",
+   "date": "2026-06-01",
+   "category": "Other Income",
+   "type": "Income",
+   "amount": 2346.94,
+   "notes": "Paycheck"
+  },
+  {
+   "id": "tx415",
+   "date": "2026-06-12",
+   "category": "Subscriptions",
+   "type": "Expense",
+   "amount": 20.0,
+   "notes": "claude"
+  },
+  {
+   "id": "tx416",
+   "date": "2026-06-01",
+   "category": "Other Income",
+   "type": "Income",
+   "amount": 411.0,
+   "notes": "Carry over from june"
+  },
+  {
+   "id": "tx417",
+   "date": "2026-06-09",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 13.7,
+   "notes": "publix"
+  },
+  {
+   "id": "tx418",
+   "date": "2026-06-08",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 5.22,
+   "notes": "publix"
+  },
+  {
+   "id": "tx419",
+   "date": "2026-06-12",
+   "category": "Credit Card",
+   "type": "Expense",
+   "amount": 260.94,
+   "notes": "chase"
+  },
+  {
+   "id": "tx420",
+   "date": "2026-06-13",
+   "category": "Subscriptions",
+   "type": "Expense",
+   "amount": 0,
+   "notes": "amc membership 21.99"
+  },
+  {
+   "id": "tx421",
+   "date": "2026-06-12",
+   "category": "Dining Out",
+   "type": "Expense",
+   "amount": 6.38,
+   "notes": "cfa"
+  },
+  {
+   "id": "tx422",
+   "date": "2026-06-14",
+   "category": "Gifts",
+   "type": "Expense",
+   "amount": 50.0,
+   "notes": "Diana regalo"
+  },
+  {
+   "id": "tx423",
+   "date": "2026-06-15",
+   "category": "Groceries",
+   "type": "Expense",
+   "amount": 12.99,
+   "notes": "dollar general"
+  },
+  {
+   "id": "tx424",
+   "date": "2026-06-16",
+   "category": "Groceries",
+   "type": "Expense",
+   "amount": 9.78,
+   "notes": "walmart"
+  },
+  {
+   "id": "tx425",
+   "date": "2026-06-17",
+   "category": "Groceries",
+   "type": "Expense",
+   "amount": 3.99,
+   "notes": "fresh produce"
+  },
+  {
+   "id": "tx426",
+   "date": "2026-06-17",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 2.6,
+   "notes": "coke"
+  },
+  {
+   "id": "tx427",
+   "date": "2026-06-22",
+   "category": "Dining Out",
+   "type": "Expense",
+   "amount": 6.47,
+   "notes": "meal walmart"
+  },
+  {
+   "id": "tx428",
+   "date": "2026-06-24",
+   "category": "Dining Out",
+   "type": "Expense",
+   "amount": 12.09,
+   "notes": "moes"
+  },
+  {
+   "id": "tx429",
+   "date": "2026-06-24",
+   "category": "Personal care",
+   "type": "Expense",
+   "amount": 25.0,
+   "notes": "haircut"
+  },
+  {
+   "id": "tx430",
+   "date": "2026-06-24",
+   "category": "Dining Out",
+   "type": "Expense",
+   "amount": 9.9,
+   "notes": "tacos"
+  },
+  {
+   "id": "tx469",
+   "date": "2026-07-01",
+   "category": "Other Income",
+   "type": "Income",
+   "amount": 126.0,
+   "notes": "state tax al"
+  },
+  {
+   "id": "tx470",
+   "date": "2026-07-01",
+   "category": "Rent",
+   "type": "Expense",
+   "amount": 670.0,
+   "notes": "Rent"
+  },
+  {
+   "id": "tx471",
+   "date": "2026-07-02",
+   "category": "Credit Card",
+   "type": "Expense",
+   "amount": 351.37,
+   "notes": "Discover"
+  },
+  {
+   "id": "tx472",
+   "date": "2026-07-03",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Alabama power (trin pays)"
+  },
+  {
+   "id": "tx473",
+   "date": "2026-07-04",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 46.59,
+   "notes": "MAWSS"
+  },
+  {
+   "id": "tx474",
+   "date": "2026-07-05",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 36.91,
+   "notes": "Spire"
+  },
+  {
+   "id": "tx475",
+   "date": "2026-07-06",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 60.37,
+   "notes": "ATT"
+  },
+  {
+   "id": "tx476",
+   "date": "2026-07-07",
+   "category": "Subscriptions",
+   "type": "Expense",
+   "amount": 6.47,
+   "notes": "spotify"
+  },
+  {
+   "id": "tx477",
+   "date": "2026-07-08",
+   "category": "Subscriptions",
+   "type": "Expense",
+   "amount": 2.99,
+   "notes": "Apple storage"
+  },
+  {
+   "id": "tx478",
+   "date": "2026-07-09",
+   "category": "Car",
+   "type": "Expense",
+   "amount": 72.34,
+   "notes": "Geico"
+  },
+  {
+   "id": "tx479",
+   "date": "2026-07-10",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 100.0,
+   "notes": "Sallie mae"
+  },
+  {
+   "id": "tx480",
+   "date": "2026-07-08",
+   "category": "Credit Card",
+   "type": "Expense",
+   "amount": 210.64,
+   "notes": "Chase"
+  },
+  {
+   "id": "tx481",
+   "date": "2026-07-12",
+   "category": "Groceries",
+   "type": "Expense",
+   "amount": 85.0,
+   "notes": "Groceries"
+  },
+  {
+   "id": "tx482",
+   "date": "2026-07-13",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 100.0,
+   "notes": "Madre mesada"
+  },
+  {
+   "id": "tx483",
+   "date": "2026-07-14",
+   "category": "Car",
+   "type": "Expense",
+   "amount": 60.0,
+   "notes": "Gas"
+  },
+  {
+   "id": "tx484",
+   "date": "2026-07-01",
+   "category": "Other Income",
+   "type": "Income",
+   "amount": 2346.94,
+   "notes": "Paycheck"
+  },
+  {
+   "id": "tx485",
+   "date": "2026-07-14",
+   "category": "Credit Card",
+   "type": "Expense",
+   "amount": 415.67,
+   "notes": "Autograph"
+  },
+  {
+   "id": "tx486",
+   "date": "2026-08-01",
+   "category": "Rent",
+   "type": "Expense",
+   "amount": 670.0,
+   "notes": "Rent"
+  },
+  {
+   "id": "tx487",
+   "date": "2026-08-14",
+   "category": "Credit Card",
+   "type": "Expense",
+   "amount": 638.64,
+   "notes": "Autograph"
+  },
+  {
+   "id": "tx488",
+   "date": "2026-08-02",
+   "category": "Credit Card",
+   "type": "Expense",
+   "amount": 106.39,
+   "notes": "Discover payment 1st installment"
+  },
+  {
+   "id": "tx489",
+   "date": "2026-08-11",
+   "category": "Credit Card",
+   "type": "Expense",
+   "amount": 200.0,
+   "notes": "Chase"
+  },
+  {
+   "id": "tx490",
+   "date": "2026-08-03",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Alabama power (trin pays)"
+  },
+  {
+   "id": "tx491",
+   "date": "2026-08-04",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 46.59,
+   "notes": "MAWSS"
+  },
+  {
+   "id": "tx492",
+   "date": "2026-08-05",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 36.91,
+   "notes": "Spire"
+  },
+  {
+   "id": "tx493",
+   "date": "2026-08-06",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 60.37,
+   "notes": "ATT"
+  },
+  {
+   "id": "tx494",
+   "date": "2026-08-07",
+   "category": "Subscriptions",
+   "type": "Expense",
+   "amount": 7.55,
+   "notes": "spotify"
+  },
+  {
+   "id": "tx495",
+   "date": "2026-08-08",
+   "category": "Subscriptions",
+   "type": "Expense",
+   "amount": 2.99,
+   "notes": "Apple storage"
+  },
+  {
+   "id": "tx496",
+   "date": "2026-08-09",
+   "category": "Car",
+   "type": "Expense",
+   "amount": 72.34,
+   "notes": "Geico"
+  },
+  {
+   "id": "tx497",
+   "date": "2026-08-10",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 100.0,
+   "notes": "Sallie mae"
+  },
+  {
+   "id": "tx498",
+   "date": "2026-08-12",
+   "category": "Groceries",
+   "type": "Expense",
+   "amount": 85.0,
+   "notes": "Groceries"
+  },
+  {
+   "id": "tx499",
+   "date": "2026-08-13",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 100.0,
+   "notes": "Madre mesada"
+  },
+  {
+   "id": "tx500",
+   "date": "2026-08-14",
+   "category": "Car",
+   "type": "Expense",
+   "amount": 59.0,
+   "notes": "Gas"
+  },
+  {
+   "id": "tx501",
+   "date": "2026-08-14",
+   "category": "Subscriptions",
+   "type": "Expense",
+   "amount": 20.0,
+   "notes": "claude"
+  },
+  {
+   "id": "tx502",
+   "date": "2026-08-01",
+   "category": "Other Income",
+   "type": "Income",
+   "amount": 2346.94,
+   "notes": "Paycheck"
+  },
+  {
+   "id": "tx506",
+   "date": "2026-09-01",
+   "category": "Rent",
+   "type": "Expense",
+   "amount": 670.0,
+   "notes": "Rent"
+  },
+  {
+   "id": "tx507",
+   "date": "2026-09-02",
+   "category": "Credit Card",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Discover payment 1st installment"
+  },
+  {
+   "id": "tx508",
+   "date": "2026-09-03",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Alabama power (trin pays)"
+  },
+  {
+   "id": "tx509",
+   "date": "2026-09-04",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 46.59,
+   "notes": "MAWSS"
+  },
+  {
+   "id": "tx510",
+   "date": "2026-09-05",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 36.91,
+   "notes": "Spire"
+  },
+  {
+   "id": "tx511",
+   "date": "2026-09-06",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 60.37,
+   "notes": "ATT"
+  },
+  {
+   "id": "tx512",
+   "date": "2026-09-07",
+   "category": "Subscriptions",
+   "type": "Expense",
+   "amount": 6.47,
+   "notes": "spotify"
+  },
+  {
+   "id": "tx513",
+   "date": "2026-09-08",
+   "category": "Subscriptions",
+   "type": "Expense",
+   "amount": 2.99,
+   "notes": "Apple storage"
+  },
+  {
+   "id": "tx514",
+   "date": "2026-09-09",
+   "category": "Car",
+   "type": "Expense",
+   "amount": 72.34,
+   "notes": "Geico"
+  },
+  {
+   "id": "tx515",
+   "date": "2026-09-10",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 102.5,
+   "notes": "Sallie mae"
+  },
+  {
+   "id": "tx516",
+   "date": "2026-09-11",
+   "category": "Credit Card",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Chase"
+  },
+  {
+   "id": "tx517",
+   "date": "2026-09-12",
+   "category": "Groceries",
+   "type": "Expense",
+   "amount": 85.0,
+   "notes": "Groceries"
+  },
+  {
+   "id": "tx518",
+   "date": "2026-09-13",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Madre mesada"
+  },
+  {
+   "id": "tx519",
+   "date": "2026-09-14",
+   "category": "Car",
+   "type": "Expense",
+   "amount": 45.0,
+   "notes": "Gas"
+  },
+  {
+   "id": "tx520",
+   "date": "2026-09-01",
+   "category": "Other Income",
+   "type": "Income",
+   "amount": 2346.94,
+   "notes": "Paycheck"
+  },
+  {
+   "id": "tx521",
+   "date": "2026-09-01",
+   "category": "Subscriptions",
+   "type": "Expense",
+   "amount": 20.0,
+   "notes": "claude"
+  },
+  {
+   "id": "tx522",
+   "date": "2026-09-01",
+   "category": "Credit Card",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Autograph"
+  },
+  {
+   "id": "tx524",
+   "date": "2026-10-01",
+   "category": "Rent",
+   "type": "Expense",
+   "amount": 670.0,
+   "notes": "Rent"
+  },
+  {
+   "id": "tx525",
+   "date": "2026-10-02",
+   "category": "Credit Card",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Discover payment 1st installment"
+  },
+  {
+   "id": "tx526",
+   "date": "2026-10-03",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Alabama power (trin pays)"
+  },
+  {
+   "id": "tx527",
+   "date": "2026-10-04",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 46.59,
+   "notes": "MAWSS"
+  },
+  {
+   "id": "tx528",
+   "date": "2026-10-05",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 36.91,
+   "notes": "Spire"
+  },
+  {
+   "id": "tx529",
+   "date": "2026-10-06",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 60.37,
+   "notes": "ATT"
+  },
+  {
+   "id": "tx530",
+   "date": "2026-10-07",
+   "category": "Subscriptions",
+   "type": "Expense",
+   "amount": 6.47,
+   "notes": "spotify"
+  },
+  {
+   "id": "tx531",
+   "date": "2026-10-08",
+   "category": "Subscriptions",
+   "type": "Expense",
+   "amount": 2.99,
+   "notes": "Apple storage"
+  },
+  {
+   "id": "tx532",
+   "date": "2026-10-09",
+   "category": "Car",
+   "type": "Expense",
+   "amount": 72.34,
+   "notes": "Geico"
+  },
+  {
+   "id": "tx533",
+   "date": "2026-10-10",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 102.5,
+   "notes": "Sallie mae"
+  },
+  {
+   "id": "tx534",
+   "date": "2026-10-11",
+   "category": "Credit Card",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Chase"
+  },
+  {
+   "id": "tx535",
+   "date": "2026-10-12",
+   "category": "Groceries",
+   "type": "Expense",
+   "amount": 85.0,
+   "notes": "Groceries"
+  },
+  {
+   "id": "tx536",
+   "date": "2026-10-13",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Madre mesada"
+  },
+  {
+   "id": "tx537",
+   "date": "2026-10-14",
+   "category": "Car",
+   "type": "Expense",
+   "amount": 45.0,
+   "notes": "Gas"
+  },
+  {
+   "id": "tx538",
+   "date": "2026-10-01",
+   "category": "Other Income",
+   "type": "Income",
+   "amount": 2346.94,
+   "notes": "Paycheck"
+  },
+  {
+   "id": "tx539",
+   "date": "2026-10-02",
+   "category": "Subscriptions",
+   "type": "Expense",
+   "amount": 20.0,
+   "notes": "claude"
+  },
+  {
+   "id": "tx540",
+   "date": "2026-10-03",
+   "category": "Credit Card",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Autograph"
+  },
+  {
+   "id": "tx543",
+   "date": "2026-11-01",
+   "category": "Rent",
+   "type": "Expense",
+   "amount": 670.0,
+   "notes": "Rent"
+  },
+  {
+   "id": "tx544",
+   "date": "2026-11-02",
+   "category": "Credit Card",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Discover payment 1st installment"
+  },
+  {
+   "id": "tx545",
+   "date": "2026-11-03",
+   "category": "Credit Card",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Autograph"
+  },
+  {
+   "id": "tx546",
+   "date": "2026-11-11",
+   "category": "Credit Card",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Chase"
+  },
+  {
+   "id": "tx547",
+   "date": "2026-11-03",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Alabama power (trin pays)"
+  },
+  {
+   "id": "tx548",
+   "date": "2026-11-04",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 46.59,
+   "notes": "MAWSS"
+  },
+  {
+   "id": "tx549",
+   "date": "2026-11-05",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 36.91,
+   "notes": "Spire"
+  },
+  {
+   "id": "tx550",
+   "date": "2026-11-06",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 60.37,
+   "notes": "ATT"
+  },
+  {
+   "id": "tx551",
+   "date": "2026-11-07",
+   "category": "Subscriptions",
+   "type": "Expense",
+   "amount": 6.47,
+   "notes": "spotify"
+  },
+  {
+   "id": "tx552",
+   "date": "2026-11-08",
+   "category": "Subscriptions",
+   "type": "Expense",
+   "amount": 2.99,
+   "notes": "Apple storage"
+  },
+  {
+   "id": "tx553",
+   "date": "2026-11-09",
+   "category": "Car",
+   "type": "Expense",
+   "amount": 72.34,
+   "notes": "Geico"
+  },
+  {
+   "id": "tx554",
+   "date": "2026-11-10",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 102.5,
+   "notes": "Sallie mae"
+  },
+  {
+   "id": "tx555",
+   "date": "2026-11-12",
+   "category": "Groceries",
+   "type": "Expense",
+   "amount": 85.0,
+   "notes": "Groceries"
+  },
+  {
+   "id": "tx556",
+   "date": "2026-11-13",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Madre mesada"
+  },
+  {
+   "id": "tx557",
+   "date": "2026-11-14",
+   "category": "Car",
+   "type": "Expense",
+   "amount": 45.0,
+   "notes": "Gas"
+  },
+  {
+   "id": "tx558",
+   "date": "2026-11-01",
+   "category": "Other Income",
+   "type": "Income",
+   "amount": 2346.94,
+   "notes": "Paycheck"
+  },
+  {
+   "id": "tx559",
+   "date": "2026-11-02",
+   "category": "Subscriptions",
+   "type": "Expense",
+   "amount": 20.0,
+   "notes": "claude"
+  },
+  {
+   "id": "tx565",
+   "date": "2026-12-01",
+   "category": "Rent",
+   "type": "Expense",
+   "amount": 670.0,
+   "notes": "Rent"
+  },
+  {
+   "id": "tx566",
+   "date": "2026-12-02",
+   "category": "Credit Card",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Discover payment 1st installment"
+  },
+  {
+   "id": "tx567",
+   "date": "2026-12-03",
+   "category": "Credit Card",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Autograph"
+  },
+  {
+   "id": "tx568",
+   "date": "2026-12-11",
+   "category": "Credit Card",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Chase"
+  },
+  {
+   "id": "tx569",
+   "date": "2026-12-03",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Alabama power (trin pays)"
+  },
+  {
+   "id": "tx570",
+   "date": "2026-12-04",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 46.59,
+   "notes": "MAWSS"
+  },
+  {
+   "id": "tx571",
+   "date": "2026-12-05",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 36.91,
+   "notes": "Spire"
+  },
+  {
+   "id": "tx572",
+   "date": "2026-12-06",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 60.37,
+   "notes": "ATT"
+  },
+  {
+   "id": "tx573",
+   "date": "2026-12-07",
+   "category": "Subscriptions",
+   "type": "Expense",
+   "amount": 6.47,
+   "notes": "spotify"
+  },
+  {
+   "id": "tx574",
+   "date": "2026-12-08",
+   "category": "Subscriptions",
+   "type": "Expense",
+   "amount": 2.99,
+   "notes": "Apple storage"
+  },
+  {
+   "id": "tx575",
+   "date": "2026-12-09",
+   "category": "Car",
+   "type": "Expense",
+   "amount": 72.34,
+   "notes": "Geico"
+  },
+  {
+   "id": "tx576",
+   "date": "2026-12-10",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 102.5,
+   "notes": "Sallie mae"
+  },
+  {
+   "id": "tx577",
+   "date": "2026-12-12",
+   "category": "Groceries",
+   "type": "Expense",
+   "amount": 85.0,
+   "notes": "Groceries"
+  },
+  {
+   "id": "tx578",
+   "date": "2026-12-13",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Madre mesada"
+  },
+  {
+   "id": "tx579",
+   "date": "2026-12-14",
+   "category": "Car",
+   "type": "Expense",
+   "amount": 45.0,
+   "notes": "Gas"
+  },
+  {
+   "id": "tx580",
+   "date": "2026-12-01",
+   "category": "Other Income",
+   "type": "Income",
+   "amount": 2346.94,
+   "notes": "Paycheck"
+  },
+  {
+   "id": "tx581",
+   "date": "2026-12-02",
+   "category": "Subscriptions",
+   "type": "Expense",
+   "amount": 20.0,
+   "notes": "claude"
+  },
+  {
+   "id": "tx699",
+   "date": "2027-01-01",
+   "category": "Rent",
+   "type": "Expense",
+   "amount": 670.0,
+   "notes": "Rent"
+  },
+  {
+   "id": "tx700",
+   "date": "2027-01-02",
+   "category": "Credit Card",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Discover payment 1st installment"
+  },
+  {
+   "id": "tx701",
+   "date": "2027-01-03",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Alabama power (trin pays)"
+  },
+  {
+   "id": "tx702",
+   "date": "2027-01-04",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 46.59,
+   "notes": "MAWSS"
+  },
+  {
+   "id": "tx703",
+   "date": "2027-01-05",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 36.91,
+   "notes": "Spire"
+  },
+  {
+   "id": "tx704",
+   "date": "2027-01-06",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 60.37,
+   "notes": "ATT"
+  },
+  {
+   "id": "tx705",
+   "date": "2027-01-07",
+   "category": "Subscriptions",
+   "type": "Expense",
+   "amount": 6.47,
+   "notes": "spotify"
+  },
+  {
+   "id": "tx706",
+   "date": "2027-01-08",
+   "category": "Subscriptions",
+   "type": "Expense",
+   "amount": 2.99,
+   "notes": "Apple storage"
+  },
+  {
+   "id": "tx707",
+   "date": "2027-01-09",
+   "category": "Car",
+   "type": "Expense",
+   "amount": 72.34,
+   "notes": "Geico"
+  },
+  {
+   "id": "tx708",
+   "date": "2027-01-10",
+   "category": "Services",
+   "type": "Expense",
+   "amount": 102.5,
+   "notes": "Sallie mae"
+  },
+  {
+   "id": "tx709",
+   "date": "2027-01-11",
+   "category": "Credit Card",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Chase"
+  },
+  {
+   "id": "tx710",
+   "date": "2027-01-12",
+   "category": "Groceries",
+   "type": "Expense",
+   "amount": 85.0,
+   "notes": "Groceries"
+  },
+  {
+   "id": "tx711",
+   "date": "2027-01-13",
+   "category": "Miscellaneous",
+   "type": "Expense",
+   "amount": 100.0,
+   "notes": "Madre mesada"
+  },
+  {
+   "id": "tx712",
+   "date": "2027-01-14",
+   "category": "Car",
+   "type": "Expense",
+   "amount": 59.0,
+   "notes": "Gas"
+  },
+  {
+   "id": "tx713",
+   "date": "2027-01-15",
+   "category": "Other Income",
+   "type": "Income",
+   "amount": 2346.94,
+   "notes": "Paycheck"
+  },
+  {
+   "id": "tx714",
+   "date": "2027-01-16",
+   "category": "Subscriptions",
+   "type": "Expense",
+   "amount": 20.0,
+   "notes": "claude"
+  },
+  {
+   "id": "tx715",
+   "date": "2027-01-17",
+   "category": "Credit Card",
+   "type": "Expense",
+   "amount": 0.0,
+   "notes": "Autograph"
+  }
+ ],
+ "groceries": [
+  {
+   "id": "g8",
+   "date": "2026-03-16",
+   "item": "Vegetables",
+   "store": "Walmart",
+   "amount": 11.46
+  },
+  {
+   "id": "g9",
+   "date": "2026-03-17",
+   "item": "rotisserie chicken + banana",
+   "store": "Walmart",
+   "amount": 7.71
+  },
+  {
+   "id": "g10",
+   "date": "2026-03-23",
+   "item": "tuna+ranch+3 avocado",
+   "store": "Walmart",
+   "amount": 8.72
+  },
+  {
+   "id": "g11",
+   "date": "2026-04-09",
+   "item": "eggs+onion+mjar+rice+biz+folder",
+   "store": "Walmart",
+   "amount": 29.25
+  },
+  {
+   "id": "g12",
+   "date": "2026-04-10",
+   "item": "artichoke dip+malta",
+   "store": "Publix",
+   "amount": 12.07
+  },
+  {
+   "id": "g13",
+   "date": "2026-04-11",
+   "item": "papa+cucum+atun+potsticks",
+   "store": "Walmart",
+   "amount": 12.2
+  },
+  {
+   "id": "g14",
+   "date": "2026-06-07",
+   "item": "chicken rotis+vegg+tuna",
+   "store": "Walmart",
+   "amount": 52.45
+  }
+ ],
+ "savings": [
+  {
+   "id": "s8",
+   "date": "2026-01-31",
+   "amount": 500.0
+  },
+  {
+   "id": "s9",
+   "date": "2026-02-28",
+   "amount": 500.0
+  },
+  {
+   "id": "s10",
+   "date": "2026-03-11",
+   "amount": 350.0
+  }
+ ],
+ "loans": [
+  {
+   "id": "loan1",
+   "name": "Sallie Mae",
+   "balance": 9250.0,
+   "rate": 0.09,
+   "minPayment": 130.0,
+   "monthlyPayment": 700.0
+  }
+ ],
+ "ious": [
+  {
+   "id": "iou31",
+   "comment": "Trin owes from services 14.92",
+   "amount": 14.92,
+   "date": "2026-02-28"
+  },
+  {
+   "id": "iou32",
+   "comment": "Trin owes bottle of gin don’t know if well split it",
+   "amount": 18.14,
+   "date": "2026-03-09"
+  },
+  {
+   "id": "iou33",
+   "comment": "She owes ice cream",
+   "amount": 5.08,
+   "date": "2026-03-12"
+  },
+  {
+   "id": "iou34",
+   "comment": "Egg roll 2",
+   "amount": 7.98,
+   "date": "2026-03-14"
+  },
+  {
+   "id": "iou35",
+   "comment": "Key for trin",
+   "amount": 7.67,
+   "date": "2026-03-20"
+  },
+  {
+   "id": "iou37",
+   "comment": "Ricky owes",
+   "amount": 8.55,
+   "date": "2026-04-01"
+  }
+ ]
+}

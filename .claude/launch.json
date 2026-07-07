@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "budget-app",
+      "runtimeExecutable": "C:\\Users\\sergi\\AppData\\Local\\node-portable\\node-v22.14.0-win-x64\\npm.cmd",
+      "runtimeArgs": ["run", "dev"],
+      "cwd": "C:\\Users\\sergi\\Desktop\\budget-app",
+      "port": 3000
+    }
+  ]
+}
